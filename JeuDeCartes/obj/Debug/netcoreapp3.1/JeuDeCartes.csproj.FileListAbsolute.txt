@@ -1,0 +1,13 @@
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.exe
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.deps.json
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.runtimeconfig.json
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.runtimeconfig.dev.json
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.dll
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\bin\Debug\netcoreapp3.1\JeuDeCartes.pdb
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.csprojAssemblyReference.cache
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.AssemblyInfoInputs.cache
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.AssemblyInfo.cs
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.csproj.CoreCompileInputs.cache
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.dll
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.pdb
+C:\Users\Jere-\source\repos\JeuDeCartes\JeuDeCartes\obj\Debug\netcoreapp3.1\JeuDeCartes.genruntimeconfig.cache
